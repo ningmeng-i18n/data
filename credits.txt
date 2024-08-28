@@ -1,0 +1,7 @@
+&6&lContributors&r
+
+&bonechris&r - Helped out with config stuff and is a Geyser developer, very helpful with debugging stuff, thanks :D
+
+&a&lTranslators&r
+
+todo

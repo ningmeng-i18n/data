@@ -5,5 +5,7 @@
     [ "zh_CN", "中文(简体)" ],
     [ "es_ES", "Español (España)" ],
     [ "es_MX", "Español (México)" ],
-    [ "ru_RU", "Русский (Россия)" ]
+    [ "ru_RU", "Русский (Россия)" ],
+    [ "fr_FR", "Français (France)" ],
+    [ "fr_CA", "Français (Canada)" ]
 ]

@@ -32,5 +32,9 @@
     "ge.settings.bindings.emote2": "Emote #2",
     "ge.settings.bindings.emote3": "Emote #3",
     "ge.settings.bindings.emote4": "Emote #4",
-    "ge.settings.debug.header": "Don't change settings here unless you know what you are doing!"
+    "ge.settings.debug.header": "Don't change settings here unless you know what you are doing!",
+    "ge.settings.bindings.actions.next_locked_perspective": "Next Locked Camera Perspective",
+    "ge.settings.bindings.actions.platform_list": "Platform List",
+    "ge.settings.bindings.actions.open_ge_menu": "Open /{ge.menu}/",
+    "ge.settings.video.lockedCameraPerspective": "Locked Camera Perspective"
 }

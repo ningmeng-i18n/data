@@ -9,7 +9,7 @@
     "ge.reconnect": "Reconnect",
     "ge.settings.reset.reconnect": "Resetting your settings will require reconnecting.",
     "ge.settings.reset.ingame": "§8§oTo reset your settings, open the settings menu in the /{ge.menu}/ or type §7/ge settings§8.",
-    "ge.settings.video.attackIndicatorFPS": "Attack Indicator FPS", 
+    "ge.settings.video.attackIndicatorFPS": "Attack Indicator FPS",
     "ge.settings.video.adjustCooldownWithPing": "Sync Attack Indicator timing based on ping",
     "ge.settings.video.advancedTooltips": "Advanced Tooltips",
     "ge.settings.menu.title": "Menu",
@@ -20,7 +20,7 @@
     "ge.settings.hud.armor": "Armor Bar",
     "ge.settings.hud.crosshair": "Crosshair",
     "ge.settings.hud.effects_bar": "Effects Bar",
-    "ge.settings.hud.progress_bar":  "Experience Bar",
+    "ge.settings.hud.progress_bar": "Experience Bar",
     "ge.settings.hud.food_bar": "Hunger Bar",
     "ge.settings.hud.health": "Health Bar",
     "ge.settings.hud.hotbar": "Hotbar",
@@ -32,5 +32,9 @@
     "ge.settings.bindings.emote2": "Emote 2",
     "ge.settings.bindings.emote3": "Emote 3",
     "ge.settings.bindings.emote4": "Emote 4",
-    "ge.settings.debug.header": "Don't change settings here unless you know what you are doing!"
+    "ge.settings.debug.header": "Don't change settings here unless you know what you are doing!",
+    "ge.settings.bindings.actions.next_locked_perspective": "Next Locked Camera Perspective",
+    "ge.settings.bindings.actions.platform_list": "Platform List",
+    "ge.settings.bindings.actions.open_ge_menu": "Open /{ge.menu}/",
+    "ge.settings.video.lockedCameraPerspective": "Locked Camera Perspective"
 }

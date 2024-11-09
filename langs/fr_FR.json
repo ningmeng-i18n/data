@@ -3,7 +3,7 @@
     "ge.menu": "Menu de /{ge.name}/",
     "ge.settings": "Paramètres de /{ge.name}/ ",
     "ge.welcome_toast.line1": "/{ge.name}/ est disponible!",
-    "ge.welcome_toast.line2": "Double-cliquez l'inventaire pour ouvrir le menu",
+    "ge.welcome_toast.line2": "Double-cliquez l'inventaire pour ouvrir le menu.",
     "ge.form_error_toast.line1": "Les paramètres de /{ge.name}/ n'ont pas été initialisés dans les paramètres.",
     "ge.form_error_toast.line2": "Vous pouvez accéder les paramètres en double-cliquant l'inventaire en jeu.",
     "ge.reconnect": "Reconnecter",

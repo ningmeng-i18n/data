@@ -32,5 +32,9 @@
     "ge.settings.bindings.emote2": "Эмоция 2",
     "ge.settings.bindings.emote3": "Эмоция 3",
     "ge.settings.bindings.emote4": "Эмоция 4",
-    "ge.settings.debug.header": "Не меняйте здесь настройки если вы не знаете что делать!"
+    "ge.settings.debug.header": "Не меняйте здесь настройки если вы не знаете что делать!",
+    "ge.settings.bindings.actions.next_locked_perspective": "Следующая зафиксированная перспектива камеры",
+    "ge.settings.bindings.actions.platform_list": "Лист платформ",
+    "ge.settings.bindings.actions.open_ge_menu": "Открыть /{ge.menu}/",
+    "ge.settings.video.lockedCameraPerspective": "Зафиксированная перспектива камеры"
 }

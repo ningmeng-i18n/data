@@ -33,6 +33,7 @@
     "ge.settings.bindings.emote3": "Émote 3",
     "ge.settings.bindings.emote4": "Émote 4",
     "ge.settings.debug.header": "Ne changez pas les paramètres ici si vous ne savez pas ce que vous faites!",
+    "ge.settings.bindings.actions.next_locked_perspective": "Prochain point de vue barré de la caméra",
     "ge.settings.bindings.actions.platform_list": "Liste des platformes",
     "ge.settings.bindings.actions.open_ge_menu": "Ouvrir le menu de /{ge.name}/",
     "ge.settings.video.lockedCameraPerspective": "Point de vue de la caméra barrée"

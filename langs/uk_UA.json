@@ -26,11 +26,15 @@
     "ge.settings.hud.hotbar": "Хотбар/Панель швидкого доступу",
     "ge.settings.hud.item_text_popup": "Вспливаюча назва предмета",
     "ge.settings.hud.vehicle_health": "Індикатор здоров'я сутності",
-    "ge.settings.hud.tool_tips": "Всплывающие подсказки",
+    "ge.settings.hud.tool_tips": "Спливаючі підказки",
     "ge.settings.hud.touch_controls": "Інтерфейс управління",
     "ge.settings.bindings.emote1": "Емоція 1",
     "ge.settings.bindings.emote2": "Емоція 2",
     "ge.settings.bindings.emote3": "Емоція 3",
     "ge.settings.bindings.emote4": "Емоція 4",
-    "ge.settings.debug.header": "Не змінюйте тут налаштування, якщо ви не знаєте, що робити!"
+    "ge.settings.debug.header": "Не змінюйте тут налаштування, якщо ви не знаєте, що робити!",
+    "ge.settings.bindings.actions.next_locked_perspective": "Наступна зафіксована перспектива камери",
+    "ge.settings.bindings.actions.platform_list": "Список платформ",
+    "ge.settings.bindings.actions.open_ge_menu": "Відкрити /{ge.menu}/",
+    "ge.settings.video.lockedCameraPerspective": "Зафіксована перспектива камери"
 }

@@ -33,8 +33,8 @@
     "ge.settings.bindings.emote3": "表情 3",
     "ge.settings.bindings.emote4": "表情 4",
     "ge.settings.debug.header": "除非你知道你在做什么，否则不要更改此处的设置！",
-    "ge.settings.bindings.actions.next_locked_perspective": "下一个锁定的摄像机视角",
+    "ge.settings.bindings.actions.next_locked_perspective": "下一个锁定的玩家视角",
     "ge.settings.bindings.actions.platform_list": "平台列表",
     "ge.settings.bindings.actions.open_ge_menu": "打开 /{ge.menu}/",
-    "ge.settings.video.lockedCameraPerspective": "锁定的摄像机视角"
+    "ge.settings.video.lockedCameraPerspective": "锁定的玩家视角"
 }

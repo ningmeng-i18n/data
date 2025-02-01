@@ -36,5 +36,7 @@
     "ge.settings.bindings.actions.next_locked_perspective": "Next Locked Camera Perspective",
     "ge.settings.bindings.actions.platform_list": "Platform List",
     "ge.settings.bindings.actions.open_ge_menu": "Open /{ge.menu}/",
-    "ge.settings.video.lockedCameraPerspective": "Locked Camera Perspective"
+    "ge.settings.video.lockedCameraPerspective": "Locked Camera Perspective",
+    "ge.settings.java.emotechat.muted": "Emote chat is muted.",
+    "ge.settings.java.emotechat.unmuted": "Emote chat is unmuted."
 }

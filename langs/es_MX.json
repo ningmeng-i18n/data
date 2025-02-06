@@ -36,7 +36,7 @@
     "ge.settings.bindings.actions.next_locked_perspective": "Siguiente perspectiva de cámara bloqueada",
     "ge.settings.bindings.actions.platform_list": "Lista de plataformas",
     "ge.settings.bindings.actions.open_ge_menu": "Abrir /{ge.menu}/",
-    "ge.settings.video.lockedCameraPerspective": "Perspectiva de cámara bloqueada"
+    "ge.settings.video.lockedCameraPerspective": "Perspectiva de cámara bloqueada",
     "ge.settings.java.emotechat.muted": "Chat de emotes desactivado.",
     "ge.settings.java.emotechat.unmuted": "Chat de emotes activado.",
     "ge.settings.section.submit_warning": "§8§oAsegurate de presionar el boton \"%gui.submit\" en la parte inferior de la seccion para guardar los cambios!",

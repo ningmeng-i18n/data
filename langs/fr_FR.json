@@ -35,5 +35,9 @@
     "ge.settings.debug.header": "Ne changez pas les paramètres ici si vous ne savez pas ce que vous faites!",
     "ge.settings.bindings.actions.platform_list": "Liste des platformes",
     "ge.settings.bindings.actions.open_ge_menu": "Ouvrir le menu de /{ge.name}/",
-    "ge.settings.video.lockedCameraPerspective": "Point de vue de la caméra barrée"
+    "ge.settings.video.lockedCameraPerspective": "Point de vue de la caméra barrée",
+    "ge.settings.java.emotechat.muted": "Le chat émote est muet.",
+    "ge.settings.java.emotechat.unmuted": "Le chat émote est activé",
+    "ge.settings.section.submit_warning": "§8§oAssurez-vous d'appuyer sur \"%gui.submit\" au bas de la page pour sauvegarder vos changements!",
+    "ge.settings.menu.sendSystemToasts": "Montrer les notifications de status /{ge.name}/"
 }

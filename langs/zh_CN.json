@@ -36,5 +36,9 @@
     "ge.settings.bindings.actions.next_locked_perspective": "下一个锁定的玩家视角",
     "ge.settings.bindings.actions.platform_list": "平台列表",
     "ge.settings.bindings.actions.open_ge_menu": "打开 /{ge.menu}/",
-    "ge.settings.video.lockedCameraPerspective": "锁定的玩家视角"
+    "ge.settings.video.lockedCameraPerspective": "锁定玩家视角",
+    "ge.settings.java.emotechat.muted": "表情聊天已静音",
+    "ge.settings.java.emotechat.unmuted": "表情聊天已取消静音",
+    "ge.settings.section.submit_warning": "§8§o请确保点击版块页面底部的“提交”按钮以保存更改！",
+    "ge.settings.menu.sendSystemToasts": "显示/{ge.name}/状态通知"
 }

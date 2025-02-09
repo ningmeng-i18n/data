@@ -36,5 +36,9 @@
     "ge.settings.bindings.actions.next_locked_perspective": "Наступна зафіксована перспектива камери",
     "ge.settings.bindings.actions.platform_list": "Список платформ",
     "ge.settings.bindings.actions.open_ge_menu": "Відкрити /{ge.menu}/",
-    "ge.settings.video.lockedCameraPerspective": "Зафіксована перспектива камери"
+    "ge.settings.video.lockedCameraPerspective": "Зафіксована перспектива камери",
+    "ge.settings.java.emotechat.muted": "Чат емоцій вимкнен.",
+    "ge.settings.java.emotechat.unmuted": "Чат емоцій увімкнен.",
+    "ge.settings.section.submit_warning": "§8§oПереконайтеся, що ви натиснули кнопку \"%gui.submit\" внизу сторінки розділу, щоб зберегти зміни!",
+    "ge.settings.menu.sendSystemToasts": "Показати повідомлення про статус /{ge.name}/"
 }

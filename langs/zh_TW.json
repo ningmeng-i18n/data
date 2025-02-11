@@ -36,7 +36,7 @@
     "ge.settings.bindings.actions.next_locked_perspective": "下一個鎖定相機視角",
     "ge.settings.bindings.actions.platform_list": "平台列表",
     "ge.settings.bindings.actions.open_ge_menu": "開啟 /{ge.menu}/",
-    "ge.settings.video.lockedCameraPerspective": "鎖定相機視角"
+    "ge.settings.video.lockedCameraPerspective": "鎖定相機視角",
     "ge.settings.java.emotechat.muted": "表情聊天已靜音。",
     "ge.settings.java.emotechat.unmuted": "表情聊天已解除靜音。",
     "ge.settings.section.submit_warning": "§8§o請確保您點擊了部分頁面底部的 \"%gui.submit\" 按鈕來儲存更改！",
